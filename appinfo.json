@@ -1,0 +1,11 @@
+{
+  "id": "webapps-spotify",
+  "title": "SPOTIFY",
+  "description": "Free music streaming",
+  "version": "0.0.0",
+  "vendor": "KR Solutions",
+  "type": "web",
+  "main": "index.html",
+  "uiRevision": "1",
+  "icon": "icon.svg"
+}
